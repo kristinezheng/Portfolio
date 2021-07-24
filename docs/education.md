@@ -4,6 +4,7 @@ Class of 2024
 
 ## Huron High School, Ann Arbor, MI
 National AP Scholar, National Honor Society, Seal of Biliteracy
+
 Cumulative GPA: 4.0/4.0, ACT: 36, SAT Math II: 800
 
 ### Relevant Coursework

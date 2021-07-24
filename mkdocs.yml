@@ -3,7 +3,7 @@ nav:
     - Home: index.md
     - Education: education.md
     - Experience: experience.md
-    - Skills: skills.md
+    - Skills and Background: skills.md
     - Art Portfolio: artportfolio.md
 
 theme:
