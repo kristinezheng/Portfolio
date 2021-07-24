@@ -1,5 +1,5 @@
 # Welcome 
-* [Linkedin](https://www.linkedin.com/in/kristine-zheng-4695201b2/)
+* [Linkedin.com](https://www.linkedin.com/in/kristine-zheng-4695201b2/)
 
-* [Github](https://github.com/kristinezheng)
+* [Github.com](https://github.com/kristinezheng)
 
