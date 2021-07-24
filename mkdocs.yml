@@ -1,6 +1,10 @@
 site_name: Kristine Zheng
 nav:
     - Home: index.md
+    - Education: education.md
+    - Experience: experience.md
+    - Skills: skills.md
+    - Art Portfolio: artportfolio.md
 
 theme:
   name: material
