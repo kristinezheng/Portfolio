@@ -5,8 +5,26 @@ nav:
     - Art Portfolio: artportfolio.md
 
 theme:
-  name: lux
+  name: material
+  palette:
+    primary: black
+  font:
+    text: Noto Sans
 
-markdown_extensions: 
- - pymdownx.tabbed
- - pymdownx.superfences
+markdown_extensions:
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/kristinezheng
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/kristine-zheng-4695201b2/
+    - icon: fontawesome/brands/medium
+      link: https://medium.com/@zhengkristine
+
+
+
