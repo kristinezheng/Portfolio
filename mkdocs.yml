@@ -1,10 +1,12 @@
 site_name: Kristine Zheng
 nav:
     - Home: index.md
-    - Education: education.md
-    - Experience: experience.md
-    - Skills and Background: skills.md
-    - Art Portfolio: artportfolio.md
+    - CSV: csv.md
+    - Art Portmkdocs folio: artportfolio.md
 
 theme:
-  name: material
+  name: lux
+
+markdown_extensions: 
+ - pymdownx.tabbed
+ - pymdownx.superfences
