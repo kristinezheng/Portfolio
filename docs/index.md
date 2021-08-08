@@ -3,3 +3,8 @@
 
 * [Github.com](https://github.com/kristinezheng)
 
+# Contact
+
+* zhengkristine@gmail.com 
+
+
