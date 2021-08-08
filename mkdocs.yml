@@ -1,6 +1,8 @@
 site_name: Kristine Zheng
 nav:
     - Home: index.md
+    - CSV: csv.md
+    - Art Portfolio: artportfolio.md
 
 theme:
   name: lux
