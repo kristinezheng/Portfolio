@@ -1,7 +1,7 @@
 site_name: Kristine Zheng
 nav:
     - Home: index.md
-    - Resume: csv.md
+    - Resume: cvs.md
     - Art Portfolio: artportfolio.md
 
 theme:
