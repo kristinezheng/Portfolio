@@ -5,6 +5,6 @@
 
 # Contact
 
-* zhengkristine@gmail.com 
+* kxzheng@mit.edu
 
 
