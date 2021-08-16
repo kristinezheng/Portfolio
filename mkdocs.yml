@@ -5,7 +5,7 @@ nav:
     - Art Portfolio: artportfolio.md
 
 theme:
-  name: material
+  name: lux #material
   palette:
     primary: black
   font:
