@@ -15,26 +15,51 @@ Relevant Coursework
 
 ## Experience
 
-* June - August 2021
-TDP SWE, UHG Optum
+June - August 2021: TDP Software Engineering Intern at Advanced Technology Collaborative, Optum, UnitedHealthGroup
 
-* Feb - May 2021
-New House Dorm Front Desk, MIT
+* Built an internal course recommendation system combining machine learning with graphs in Tigergraph 
+* Developed recommendation graph dashboards and documentation microsites to present to company executives
 
-* Jan 2021
-Physical Therapy Department, Tel Aviv University
 
-* Sept 2016- July 2020
-GIDAS/miRcore
+Feb - May 2021: Staff Member at New House Dorm Front Desk, MIT
 
-* Sept 2018- June 2020
-Peer Facilitating Lab   
+* Maintained inventory of packages and equipment in the dorm 
+* Assisted students with dorm facilities and distributed their delivered items
 
-* June 2019 – Aug 2019
-Microtechnology Lab, Michigan State University
 
-* June 2019- Aug 2019
-University of Michigan Health System Michigan Child Collaborative Care (MC3)        
+Jan 2021: Laboratory Analyst Intern at Physical Therapy Department, Tel Aviv University
+
+* Created a MATLAB GUI to process stroke patient data and create graphics
+* Analyzed human motor control data using functional PCA with SVM and k-means clustering
+
+
+Sept 2016- July 2020: Head of Research and Biotechnology Summer Camp Group Leader at GIDAS/miRcore
+
+* Demonstrated analysis of genes with diseases (depression, opioid addiction, brain cancer, pancreatic cancer) and symptoms using computational biology
+* Fundraised for researchers' microgrants ($20000 for pancreatic cancer and brain cancer)
+* Taught students how to investigate SARS-CoV-2 sequences through genomic databases (NCBI, UCSC Genome Browser) and Linux 
+* Compared key SARS-CoV-2 RNA sequences for developing novel biotechnology for vaccines and detectors using RNAhybrid
+
+
+Sept 2018- June 2020: Peer Counselor and Advocator at the Huron HS Peer Facilitating Lab  
+
+* Curated community assemblies with guest speakers and presented to health classes to raise awareness 
+* Aided students’ difficulties with mental health, relationships, and school
+
+
+June 2019 – Aug 2019: Lab Intern with HSHSP at the Microtechnology Lab, Michigan State University
+
+* Conducted trials and graphically analyzed electrochemical impedance spectroscopy (EIS) data
+* Published Paper (IEEE-NEMS 2020, MDPI Biology and Biomedicine, Implantable Microdevices Vol. II) : [Stability Performance Analysis of Various Packaging Materials and Coating Strategies for Chronic Neural Implants under Accelerated, Reactive Aging Tests](https://www.mdpi.com/2072-666X/11/9/810)
+* Examined in vitro coated probes through an optical microscope with Q-imaging cameras
+* Built and modeled device components through CAD software (SolidWorks, Autodesk Fusion 360)
+
+
+June 2019- Aug 2019: Volunteer at University of Michigan Health Michigan Child Collaborative Care (MC3)      
+
+* Assembled resource guides for Michigan counties to support primary care providers and patients
+* Corresponded with behavioral health specialists about their therapies, insurances, and other services
+
 
 ## Skills
 
@@ -44,7 +69,7 @@ Languages
 
 Computer
 
-* Python, LaTeX, SQL, Linux, MATLAB, CAD (SolidWorks, Autodesk Fusion 360), Graphic Design, Microsoft Office Suite, GSQL
+* Python, LaTeX, GSQL, Linux, MATLAB, CAD (SolidWorks, Autodesk Fusion 360), Graphic Design, Microsoft Office Suite
 
 Awards and Competitions
 
@@ -61,6 +86,3 @@ Alum
 * High School Honors Science, Math, and Engineering Program (HSHSP)
 * Oakland Univ. Summer Math Institute (OUSMI)
 
-Interests 
-
-* Running, Hiking, Painting, Crosswords, Cooking
