@@ -11,9 +11,14 @@ Huron High School, Ann Arbor, MI
 
 Relevant Coursework
 
-* Neuroscience (9.01, MIT), Psychology (9.00, MIT), Algorithms (6.006, MIT), Python (6.009, MIT), Honors Multivariable and Vector Calculus (University of Michigan), Differential Equations (Washtenaw Community College)
+* Neuroscience (9.01, MIT), Psychology (9.00, MIT), Machine Learning (6.036, MIT), Algorithms (6.006, MIT), Python (6.009, MIT), Honors Multivariable and Vector Calculus (University of Michigan), Differential Equations (Washtenaw Community College)
 
 ## Experience
+
+Sept. 2021 - Present: Undergraduate Student Researcher at the DiCarlo Lab, McGovern Institute for Brain Research, MIT
+
+* Training in non-human primate research and developing and improving computational brain models
+
 
 June - August 2021: TDP Software Engineering Intern at Advanced Technology Collaborative, Optum, UnitedHealthGroup
 
