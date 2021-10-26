@@ -17,8 +17,7 @@ Relevant Coursework
 
 Sept. 2021 - Present: Undergraduate Student Researcher at the DiCarlo Lab, McGovern Institute for Brain Research, MIT
 
-* Training in non-human primate research and developing and improving computational brain models
-
+* Combining non-human primate physiology with machine learning brain models to explore visual object recognition
 
 June - Aug. 2021: TDP Software Engineering Intern at Advanced Technology Collaborative, Optum, UnitedHealthGroup
 
