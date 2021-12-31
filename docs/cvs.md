@@ -15,6 +15,8 @@ Relevant Coursework
 
 ## Experience
 
+Jan. 2022: Developer Advocate Intern at TigerGraph
+
 Sept. 2021 - Present: Undergraduate Student Researcher at the DiCarlo Lab, McGovern Institute for Brain Research, MIT
 
 * Combining non-human primate physiology with machine learning brain models to explore visual object recognition
