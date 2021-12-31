@@ -2,7 +2,9 @@
 
 Massachusetts Institute of Technology, Cambridge, MA
 
-* Candidate for B.S in Computation and Cognition, Cumulative GPA: 5.0/5.0, Class of 2024
+* Candidate for B.S in Computation and Cognition, Cumulative GPA: 4.9/5.0, Class of 2024
+
+* Undergraduate Association Innovation Committee (Banana Lounge), Pleasure@MIT, Lean On Me (LOM), Alpha Chi Omega 
 
 Huron High School, Ann Arbor, MI
 
