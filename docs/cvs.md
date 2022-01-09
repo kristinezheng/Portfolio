@@ -21,7 +21,8 @@ Jan. 2022: Developer Advocate Intern at TigerGraph
 
 Sept. 2021 - Present: Undergraduate Student Researcher at the DiCarlo Lab, McGovern Institute for Brain Research, MIT
 
-* Combining non-human primate physiology with machine learning brain models to explore visual object recognition
+* Studying visual object recognition using a combination of neuroscience and machine learning to test current convolutional neural networks modeled after primate physiology
+* Training in animal handling, surgery, and behavioral studies
 
 June - Aug. 2021: TDP Software Engineering Intern at Advanced Technology Collaborative, Optum, UnitedHealthGroup
 
