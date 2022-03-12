@@ -13,7 +13,7 @@ Huron High School, Ann Arbor, MI
 
 Relevant Coursework
 
-* Machine Learning (6.036, MIT), Algorithms (6.006, MIT), Python (6.009, MIT), Neuroscience (9.01, MIT), Psychology (9.00, MIT), Honors Multivariable and Vector Calculus (University of Michigan), Differential Equations (Washtenaw Community College)
+* Neural Computation (9.40, MIT), Perception (9.35, MIT), Computer Vision (6.869, MIT), Machine Learning (6.036, MIT), Algorithms (6.006, MIT), Python (6.009, MIT), Neuroscience (9.01, MIT), Psychology (9.00, MIT), Honors Multivariable and Vector Calculus (University of Michigan), Differential Equations (Washtenaw Community College)
 
 ## Experience
 
@@ -82,7 +82,7 @@ Languages
 
 Computer
 
-* Python, LaTeX, GSQL, Linux, MATLAB, CAD (SolidWorks, Autodesk Fusion 360), Graphic Design, Microsoft Office Suite
+* Python, Arduino, C++, GSQL, Linux, MATLAB, CAD (SolidWorks, Autodesk Fusion 360), Graphic Design, Microsoft Office Suite
 
 Awards and Competitions
 
