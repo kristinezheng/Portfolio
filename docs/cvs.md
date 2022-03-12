@@ -17,7 +17,11 @@ Relevant Coursework
 
 ## Experience
 
-Jan. 2022: Developer Advocate Intern at TigerGraph
+Jan. 2022 - March 2022: Developer Advocate Intern at TigerGraph
+
+* Utilized graph databases, Flutter, and Firebase to build an fullstack application for product recommendation 
+* Co-presented a workshop for Women Who Code as part of TigerGraph’s Graph for All Challenge
+
 
 Sept. 2021 - Present: Undergraduate Student Researcher at the DiCarlo Lab, McGovern Institute for Brain Research, MIT
 
